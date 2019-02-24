@@ -9,7 +9,9 @@ Proposal 2
 
 Problem: How can businesses identify specific Yelp users with the intention of providing a free or discounted service to increase the number of patrons coming in to their buiness?
 
-Solution: Create Yelp user/reviewer classifications based on education level (language used in the reviews Ð vocabulary, grammar, etc.) and income level ($ rating of businesses reviewed) and level of influence (number of friends and responses of others to reviews posted)
+Solution: Yelp recommedation system using reviews, business information (category, types, locations) to 
+
+OLD Solution: Create Yelp user/reviewer classifications based on education level (language used in the reviews Ð vocabulary, grammar, etc.) and income level ($ rating of businesses reviewed) and level of influence (number of friends and responses of others to reviews posted)
 
 Proposal 3
 
